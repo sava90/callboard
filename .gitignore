@@ -1,0 +1,10 @@
+.idea
+#database
+/db/*
+
+# Managed by Composer
+/vendor/
+
+# Composer
+/composer.lock
+/composer.phar
